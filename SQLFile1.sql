@@ -1,0 +1,5 @@
+CREATE DATABASE RetailDW_Dev;
+GO
+
+USE RetailDW_Dev;
+GO
